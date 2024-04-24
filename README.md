@@ -27,4 +27,4 @@ This repository contains MATLAB simulation codes generated for the paper titled 
 Citation:
 Ali Rezaei, Ali Khaki-Sedigh. "Comparative Analysis of Data-Driven Predictive Control Strategies." In Proceedings of the 9th International Conference on Control, Instrumentation, and Automation, 2023.
 
-For any questions or inquiries related to the code, please contact Ali Rezaei at a.rezaei2@email.kntu.ac.ir.
+For any questions or inquiries related to the code, please contact Sohrab Rezaei at arezaei2@jhu.edu.
