@@ -22,9 +22,9 @@ THE SOFTWARE.
 
 ---
 
-This repository contains MATLAB simulation codes generated for the paper titled "Comparative Analysis of Data-Driven Predictive Control Strategies," published in the 9th International Conference on Control, Instrumentation, and Automation in 2023. The paper is authored by Ali Rezaei & Ali Khaki-Sedigh.
+This repository contains MATLAB simulation codes generated for the paper titled "Comparative Analysis of Data-Driven Predictive Control Strategies," published in the 2023 9th International Conference on Control, Instrumentation, and Automation. The paper is authored by Ali Rezaei & Ali Khaki-Sedigh.
 
 Citation:
-Ali Rezaei, Ali Khaki-Sedigh. "Comparative Analysis of Data-Driven Predictive Control Strategies." In Proceedings of the 9th International Conference on Control, Instrumentation, and Automation, 2023.
+Rezaei, Ali, and Ali Khaki-Sedigh. "Comparative Analysis of Data-Driven Predictive Control Strategies." 2023 9th International Conference on Control, Instrumentation and Automation (ICCIA). IEEE, 2023.
 
-For any questions or inquiries related to the code, please contact Sohrab Rezaei at arezaei2@jhu.edu.
+For any questions or inquiries about the code, please contact Sohrab Rezaei at arezaei2@jhu.edu.
