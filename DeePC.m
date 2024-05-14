@@ -1,6 +1,6 @@
 %_____________________________________________________________________%  
 %  Comparative Analysis of Data-Driven Predictive Control Strategies
-% 9th International Conference on Control, Instrumentation, and Automation,
+%  2023 9th International Conference on Control, Instrumentation, and Automation,
 %                              December 2023
 %                    Ali Rezaei, Ali Khaki-Sedigh
 %               Data-Enabled Predictive Control (DeePC)
@@ -10,7 +10,7 @@
 %                                                   available for use.
 %    Please keep this information for proper attribution and 
 %                                                 to provide feedback.
-%                           Email: A.rezaei2@email.kntu.ac.ir
+%                           Email: arezaei2@jhu.edu
 %_____________________________________________________________________% 
 
 %% Clear workspace, command window, and close all figures
